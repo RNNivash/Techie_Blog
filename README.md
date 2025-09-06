@@ -2,6 +2,8 @@
 
 A personal blogging platform built with **Django**, designed to share articles, insights, and tutorials in a clean and modern way.
 
+ [Techie Blog](https://techie-blog-gucu.onrender.com)
+ 
 ---
 
 ## 🚀 Features
@@ -16,7 +18,7 @@ A personal blogging platform built with **Django**, designed to share articles, 
 ## 🛠 Tech Stack
 - **Backend:** Django, Python  
 - **Frontend:** HTML, CSS, Bootstrap  
-- **Database:** SQLite (Dev) / PostgreSQL (Prod)  
+- **Database:** SQLite  
 - **Deployment:** Render, GitHub  
 - **Other Tools:** Gunicorn, Whitenoise  
 
@@ -63,8 +65,9 @@ A personal blogging platform built with **Django**, designed to share articles, 
 
 ## 📸 Screenshots / Preview
 
-> *(Add screenshots or demo GIFs of your blog UI here)*
+<img width="1765" height="960" alt="Image" src="https://github.com/user-attachments/assets/f2c4ef50-1f5c-425d-8e7f-54634a004d79" />
 
+<img width="1721" height="961" alt="Image" src="https://github.com/user-attachments/assets/1123fab5-8b6a-41f7-98dd-1c09f99fd211" />
 ---
 
 ## 📬 Contact
