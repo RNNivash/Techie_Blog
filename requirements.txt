@@ -4,7 +4,7 @@ Django==5.2.6
 fastjsonschema==2.21.1
 fonttools==4.55.8
 kiwisolver==1.4.8
-numpy==2.2.2
+numpy>=1.26
 packaging==24.2
 pandas==2.2.3
 pillow==11.1.0
@@ -17,7 +17,6 @@ pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 python-json-logger==3.2.1
 pytz==2025.1
-pywin32==308
 pywinpty==2.0.14
 PyYAML==6.0.2
 pyzmq==26.2.1
@@ -42,3 +41,6 @@ webcolors==24.11.1
 webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.13
+Django>=5.0
+gunicorn
+
